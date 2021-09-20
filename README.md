@@ -1,2 +1,2 @@
 # 01---Capture-Site
-First page created after a learning.
+Olá, este é o meu primeiro projeto em CSS e HTML, estou estudando desenvolvimento web fullstack.
